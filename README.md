@@ -1,2 +1,4 @@
-# InterviewQuestoins
-Here I will leave daily challenges that I solved during my hunt for a job.
+# Data Structure And Interview Questons
+Here are all the data structure that I was asked about (Link list , doubly Link list , Trees , Binary Heaps, Hash Tables , Graphs and more).
+And also a collection of interview tests I passed 
+
